@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/ash
 
 while [ ! -e /etc/drone/dronerc ]; do
     sleep 1
